@@ -1,6 +1,7 @@
 # GitHub Stats Visualizations : Transparent
 > Generate visualizations of GitHub user and repository statistics using GitHub
-Actions.
+Actions.  
+
 hide-lang
 Lua,Nix,JavaScript,CSS
 <a href="https://github.com/rahul-jha98/github-stats-transparent">
