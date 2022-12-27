@@ -3,7 +3,7 @@
 Actions.  
 
 hide-lang
-Lua,Nix,JavaScript,CSS
+Lua,Nix,JavaScript,CSS,TeX
 <a href="https://github.com/rahul-jha98/github-stats-transparent">
 
 ![](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
